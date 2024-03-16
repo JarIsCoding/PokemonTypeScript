@@ -1,3 +1,10 @@
+Jared Ly
+3/16/2024
+Pokemon Api Remake with typescript
+
+Peer Reviewer - 
+Peer Review -
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
