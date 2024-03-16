@@ -2,8 +2,8 @@ Jared Ly
 3/16/2024
 Pokemon Api Remake with typescript
 
-Peer Reviewer - 
-Peer Review -
+Peer Reviewer - Sinatha Chin
+Peer Review - Everything looks good and is functioning properly! I like how you added the types as badges. The only thing I would say is that you are able to still search pokemons that are over generations 1-5, but other that your site works perfectly! Great design. :)))
 
 # Getting Started with Create React App
 
