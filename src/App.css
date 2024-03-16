@@ -36,3 +36,70 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: Mc;
+  src: url(./fonts/McLaren-Regular.ttf);
+}
+
+.bgimg{
+  background-image: url(./assets/Pikachusurf.png);
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navbg{
+  background-color: rgba(255, 255, 255, .25);
+  font-family: Mc;
+}
+
+.ft{
+  font-size: 50px;
+}
+
+.fourty{
+  font-size: 40px;
+}
+
+.twenty{
+  font-size: 20px;
+  font-family: Mc;
+}
+
+.twf{
+  font-size: 25px;
+  background-color: rgba(255, 255, 255, .5);
+  width: 100%;
+}
+
+.thirty{
+  font-size: 30px;
+}
+
+.inputfield{
+  width: 350px;
+  height: 30px;
+}
+
+.btnclass{
+  width: 175px;
+  background-color: white;
+}
+
+.Mc{
+  font-family: Mc;
+}
+
+.scrolltxt {
+  overflow-y: auto;
+  height: 165px;
+  /* Edit for responsiveness */
+  /* width: 475px; */
+}
+
+.favbg{
+  background-color: rgba(0, 0, 0, .5);
+  color: white;
+  height: 100vh;
+}
